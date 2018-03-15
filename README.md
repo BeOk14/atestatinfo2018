@@ -1,2 +1,2 @@
-# atestatinfo2018
-Lucrarea de atestat din database-uri in c#
+# Acesta este atestatul care ajuta la gestionarea unui magazin de sport
+
